@@ -1,7 +1,7 @@
 # Hi there 👋 I’m **Anandh Ajay**  
 
 ## 🎓 About Me  
-- I’m currently pursuing a **B.Tech in Electronics & Communication Engineering**.  
+- I have completed **B.Tech in Electronics & Communication Engineering**.  
 - I’ve recently completed a mini-project on **Electric Vehicles (EV) charge monitoring & fire-protection systems**.  
 - I’m developing my software-development skills, and I’m comfortable with **Python**, basics of **C**, and **SQL**.  
 - I’m an **ambivert**, which helps me adapt to different environments.  
